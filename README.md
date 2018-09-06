@@ -1,7 +1,6 @@
-# StatisticalLearningTheory
-##Selected Solutions to Coding Assignments
+## Selected Solutions to Coding Assignments of the 2018 edition of Statistical Learning Theory at ETH Zurich
 
-This repo contains the solutions to the following coding assignments of the 2018 edition of Statistical Learning Theory at ETH Zurich:
+This repo contains the solutions to the following coding assignments:
 * Locally Linear Embedding (slt-ce-1.ipynb)
 * MCMC sampling methods (slt-ce-2.ipynb)
 * Meanfield Approximation for Image Denoising (slt-ce-7.ipynb)
